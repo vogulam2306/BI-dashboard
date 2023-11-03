@@ -38,3 +38,6 @@ Year-to-Go (YTG)
 Conclusion:
 
 This project enhanced data analytics capabilities, enabling data-driven decision-making and demonstrating the ability to bridge the gap between data and business success.
+
+![Screenshot 2023-11-03 100537](https://github.com/vogulam2306/BI-dashboard/assets/59795274/928166ab-8a3c-4d34-9112-7405b97afc0c)
+
