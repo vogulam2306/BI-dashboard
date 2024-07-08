@@ -51,6 +51,7 @@ This project enhanced data analytics capabilities, enabling data-driven decision
 
 ### Data Model
 
-![Data Model]([https://github.com/vogulam2306/BI-dashboard/assets/59795274/data-model.png](https://github.com/vogulam2306/BI-dashboard/blob/main/Data_model.png))
+<img width="838" alt="Data_model" src="https://github.com/vogulam2306/BI-dashboard/assets/59795274/db6d6ac6-7b7e-461e-8bdf-306c42cc97f5">
+
 
 
