@@ -53,5 +53,32 @@ This project enhanced data analytics capabilities, enabling data-driven decision
 
 <img width="838" alt="Data_model" src="https://github.com/vogulam2306/BI-dashboard/assets/59795274/db6d6ac6-7b7e-461e-8bdf-306c42cc97f5">
 
+### Dashboard Home Page
+
+![Screenshot 2023-11-03 100537](https://github.com/vogulam2306/BI-dashboard/assets/59795274/842a33f3-4e20-4b7a-82d3-e1c4aa40a7fe)
+
+### Dashboard Finance View
+
+![Screenshot 2023-11-03 100220](https://github.com/vogulam2306/BI-dashboard/assets/59795274/5da35a34-876d-4125-a019-6b0963acfccc)
+
+### Dashboard Sales View
+
+![Screenshot 2023-11-03 100312](https://github.com/vogulam2306/BI-dashboard/assets/59795274/4b435f9d-1f3e-4e65-978c-7534be37a826)
+
+### Dashboard Marketing View
+
+![Screenshot 2023-11-03 100342](https://github.com/vogulam2306/BI-dashboard/assets/59795274/2d13bbea-8a2b-4a73-939a-06ece5f11453)
+
+### Dashboard Supplychain View
+![Screenshot 2023-11-03 100410](https://github.com/vogulam2306/BI-dashboard/assets/59795274/326c9c1a-1e18-4e7a-8260-68df485190fd)
+
+### Dashboard Executive view
+
+![Screenshot 2023-11-03 100436](https://github.com/vogulam2306/BI-dashboard/assets/59795274/82fbff89-a265-4788-8235-06d33c849c9c)
+
+
+
+
+
 
 
