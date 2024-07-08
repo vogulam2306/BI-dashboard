@@ -45,7 +45,12 @@ This project enhanced data analytics capabilities, enabling data-driven decision
 
 ## Screenshots and Links
 
+### Power BI Dashboard
+
 - [View the dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWYyZTE2OGYtMzVmMy00MzE2LWE4ZmMtYjA3Y2I2OWVkNjYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-![Dashboard Screenshot](https://github.com/vogulam2306/BI-dashboard/assets/59795274/928166ab-8a3c-4d34-9112-7405b97afc0c)
+### Data Model
+
+![Data Model](https://github.com/vogulam2306/BI-dashboard/assets/59795274/data-model.png)
+
 
